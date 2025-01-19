@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330919513621",
+    "project_id": "drummingprojectid",
+    "storage_bucket": "drummingprojectid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330919513621:android:8e98c43833380fd78d881c",
+        "android_client_info": {
+          "package_name": "com.example.drummingnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrw0_TX8TFHdm40_Sd84hFoxMoFvN-rgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
